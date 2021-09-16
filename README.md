@@ -4,6 +4,7 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 [![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 [![Discord](https://img.shields.io/discord/685554030159593522)](https://discord.com/widget?id=685554030159593522&theme=dark)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3292fd2f-6e6b-4de8-9a77-06593f03b7cc/deploy-status)](https://app.netlify.com/sites/react-graphql-thiagomarsal/deploys)
 
 *50 minutes, Beginner/Intermediate, [Start Building](#1-login-or-register-to-astradb-and-create-database)*
 
